@@ -22,3 +22,5 @@ This project demonstrates authentication, real-time messaging, and clean UI usin
 - **Firebase Core**
 
 ---
+# Author 
+Nadim N. Zubary
