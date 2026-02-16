@@ -1,35 +1,61 @@
-# ==============================================
-# FLUTTER & DART
-# ==============================================
+# ===============================
+# Flutter / Dart
+# ===============================
 .dart_tool/
-.packages
-.pub/
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
-.generated/
-.metadata
+.pub/
+.pub-cache/
 
-# ==============================================
-# IDE / EDITOR
-# ==============================================
+# ===============================
+# IDE / Editor
+# ===============================
 .idea/
 .vscode/
 *.iml
+*.ipr
+*.iws
 
-# ==============================================
-# SYSTEM FILES
-# ==============================================
+# ===============================
+# Android
+# ===============================
+android/.gradle/
+android/app/build/
+android/.cxx/
+android/local.properties
+android/key.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ===============================
+# iOS / macOS
+# ===============================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/.last_build_id
+macos/
+
+# ===============================
+# Windows / Linux
+# ===============================
+linux/
+windows/
+
+# ===============================
+# Web
+# ===============================
+web/.dart_tool/
+web/build/
+
+# ===============================
+# Misc
+# ===============================
 .DS_Store
-Thumbs.db
-
-# ==============================================
-# LOGS / LOCK FILES
-# ==============================================
 *.log
-
-# ==============================================
-# BACKUPS / TEMP FILES
-# ==============================================
-*.tmp
-*.bak
+*.swp
+how COMMIT_HASH
