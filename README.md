@@ -1,16 +1,24 @@
-# chat_app
+#  Flutter Firebase Group Chat App
 
-A new Flutter project.
+A simple real-time **Group Chat application** built with **Flutter** and **Firebase**.  
+This project demonstrates authentication, real-time messaging, and clean UI using latest Flutter practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Firebase Authentication (Create Account and Login with Email & Password)
+-  Real-time group messaging
+-  Online chat updates using Cloud Firestore
+-  Simple and clean UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Flutter**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Core**
+
+---
